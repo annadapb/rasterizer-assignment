@@ -16,8 +16,8 @@ any pull request. They will be ignored.
 |-----------------------------|--------|
 | Code does not compile       | 0      |
 | Browser Console error       | 0      |
-| Code works for one quadrant | 5      |
-| Code works for all quadrant | 10     |
+| Code works for one quadrant | 2.5    |
+| Code works for all quadrant | 5      |
 
 # Issues
 
