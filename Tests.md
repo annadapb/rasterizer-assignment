@@ -1,6 +1,7 @@
 # Computer Graphics Rasterization Assignment  
 **Subject Code:** BTCS-T-PE-028  
 **Name:** Ayesha Mohapatra  
+**SIC:** 23BCSA91
 
 ---
 
