@@ -63,9 +63,11 @@ Anti-aliased line drawing using Xiaolin Wu’s approach.
 
 ## Conclusion
 
+Submission completed on Feb 8, 2026.
 All required rasterization algorithms were successfully implemented and tested.  
 Bresenham line drawing supports all quadrants.  
 DDA and Midpoint Circle algorithms produce correct results.  
 Wu’s algorithm was implemented as a bonus.
+
 
 ---
